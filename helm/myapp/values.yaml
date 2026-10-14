@@ -1,0 +1,8 @@
+replicaCount: 1
+
+image:
+  repository: kamalesh25125/myapp
+  tag: latest
+
+service:
+  port: 80
